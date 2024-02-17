@@ -104,7 +104,9 @@ Thank you for considering contributing to `laravelmpesa`. Pull requests and issu
 Be sure to read through [CONTRIBUTING.md](./CONTRIBUTING.md) and check open issues and PRs before continuing.
 
 ### Security Vulnerabilities
-If you discover a security vulnerability within `laravelmpesa`, please send an e-mail to Moses Gathuku via hey@gathuku.me. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within `laravelmpesa`, please send an e-mail to US via zangticsdigital@gmail.com. All security vulnerabilities will be promptly addressed.
 
 ### License
 The `laravelmpesa` package is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT)
+
+As Zangtics we appreciate this script was prepared by Gathuku
