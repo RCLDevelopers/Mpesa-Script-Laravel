@@ -1,18 +1,18 @@
 {
-    "name": "gathuku/laravelmpesa",
+    "name": "RCLDevelopers/Mpesa-API",
     "description": "A simple mpesa package for laravel framework",
-    "homepage": "https://github/gathuku/laravel_mpesa",
+    "homepage": "https://github.com/RCLDevelopers/Mpesa-API",
     "keywords": [
       "mpesa",
       "laravel",
-      "gathuku"
+      "Zangtics"
     ],
     "type": "laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "moses gathuku",
-            "email": "mosesgathuku95@gmail.com"
+            "name": "Zangtics Digital",
+            "email": "zangticsdigital@gmail.com"
         }
     ],
     "minimum-stability": "dev",
