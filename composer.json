@@ -1,11 +1,11 @@
 {
-    "name": "RCLDevelopers/Mpesa-API",
+    "name": "gathuku/laravelmpesa",
     "description": "A simple mpesa package for laravel framework",
     "homepage": "https://github.com/RCLDevelopers/Mpesa-API",
     "keywords": [
       "mpesa",
       "laravel",
-      "Zangtics"
+      "gathuku"
     ],
     "type": "laravel",
     "license": "MIT",
